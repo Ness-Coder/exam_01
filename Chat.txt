@@ -1,0 +1,13 @@
+Esta conectado: ness
+Esta conectado: fer
+Esta conectado: liv
+ness:Hola como han estado
+fer:Bien, y ustedes?
+liv:Bien,todo bien
+ness:Que bueno saludos
+fer:adios
+Esta desconectado: fer
+liv:bye
+Esta desconectado: liv
+ness:bye
+Esta desconectado: ness
